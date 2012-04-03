@@ -25,6 +25,7 @@ Flotr.draw( element, [counts], options);
 ```
 
 This script expects precalculated data. It consumes 7-tuples, consist of:
+
 * index (for reference with x-axis labels)
 * median
 * top whiska, the top bar
