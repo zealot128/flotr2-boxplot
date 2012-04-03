@@ -3,6 +3,8 @@
 
 Checkout [Wikipedia](http://en.wikipedia.org/wiki/Box_plot) for more information on box plots, terms and calculations.
 
+* [Example](http://zealot128.github.com/flotr2-boxplot/)
+* [Flotr2](http://humblesoftware.com/flotr2/)
 
 ```javascript
 
